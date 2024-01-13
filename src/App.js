@@ -7,3 +7,5 @@ function App(){
         <Calculator/>
     </App>
 }
+
+export default App;

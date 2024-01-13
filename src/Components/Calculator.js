@@ -14,6 +14,8 @@ return sum;
 }
 
 
+
+
 // }
 
 function Calculator(){
@@ -28,3 +30,5 @@ function Calculator(){
            <h3>Your Result :</h3>
     </div>
 }
+
+ export default Calculator;
